@@ -1,9 +1,8 @@
 '''
-Author: your name
+Author: Archie
 Date: 2021-08-28 16:45:48
-LastEditTime: 2021-08-28 16:47:13
-LastEditors: your name
-Description: In User Settings Edit
+LastEditTime: 2021-08-28 16:55:11
+LastEditors: Archie
 FilePath: \LeetCode\7.整数反转.py
 '''
 #
