@@ -1,8 +1,8 @@
 '''
-Author: Archie Cheng
+Author: Archie
 Date: 2021-08-29 10:38:53
 LastEditors: Archie Cheng
-LastEditTime: 2021-08-29 10:44:03
+LastEditTime: 2021-08-29 10:54:02
 FilePath: \LeetCode\9.回文数.py
 '''
 #
